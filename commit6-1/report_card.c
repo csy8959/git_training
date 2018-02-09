@@ -9,7 +9,7 @@ int main()
 	eng = 100;
 	kor = 90;
 	sum = 80 + 100 + 90;
-	Mean = 80/3;
+	Average = 80/3;
 	printf("This program print report card.\n");
 
 	printf("Korean : %d\n", kor);
